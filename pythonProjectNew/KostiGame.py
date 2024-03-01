@@ -56,3 +56,5 @@ while statusGame:
         statusGame = False
 
 print("\nКонец игры!")
+
+print("testGit")
